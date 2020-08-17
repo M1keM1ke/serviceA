@@ -1,4 +1,4 @@
-![APM](https://img.shields.io/apm/l/vim-mode)  **[EN](README_EN.md)**  
+![APM](https://img.shields.io/apm/l/vim-mode)  **[RU](README.md)**  
 
 Part of the test task
 (see repositories [ServiceA](https://github.com/M1keM1ke/serviceA.git), 
