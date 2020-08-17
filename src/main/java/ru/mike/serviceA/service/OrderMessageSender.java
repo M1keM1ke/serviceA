@@ -11,7 +11,6 @@ import org.springframework.stereotype.Service;
 import ru.mike.serviceA.config.RabbitConfig;
 import ru.mike.serviceA.dto.MsgA;
 
-
 @Service
 public class OrderMessageSender {
     private final RabbitTemplate rabbitTemplate;

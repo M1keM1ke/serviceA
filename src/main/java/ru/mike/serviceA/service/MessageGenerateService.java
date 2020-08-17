@@ -3,7 +3,6 @@ package ru.mike.serviceA.service;
 import org.springframework.stereotype.Component;
 import ru.mike.serviceA.dto.Coordinates;
 import ru.mike.serviceA.dto.MsgA;
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.UUID;
