@@ -13,7 +13,6 @@ import java.util.concurrent.ThreadLocalRandom;
 public class MessageGenerateService {
     private String msg;
     private String lng;
-
     private Map<Integer, String> mapLang = new HashMap<>();
 
     {
